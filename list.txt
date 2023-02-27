@@ -22,7 +22,9 @@ var ipv6_proxy = function(){ return nowall_proxy(); };
  */
 
 var rules = [
-	"||bing.com"
+	"||bing.com",
+	"||live.com",
+	"||msn.com"
 ];
 
 /*
