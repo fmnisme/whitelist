@@ -24,7 +24,8 @@ var ipv6_proxy = function(){ return nowall_proxy(); };
 var rules = [
 	"||bing.com",
 	"||live.com",
-	"||msn.com"
+	"||msn.com",
+	"||msn.cn"
 ];
 
 /*
