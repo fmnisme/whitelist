@@ -25,7 +25,8 @@ var rules = [
 	"||bing.com",
 	"||live.com",
 	"||msn.com",
-	"||msn.cn"
+	"||msn.cn",
+	"||microsoft.com"
 ];
 
 /*
